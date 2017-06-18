@@ -1,0 +1,19 @@
+#container{
+	top: 80px;
+	height: 550px;
+	margin: 0 auto;
+	border-right: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	overflow: hidden;
+	position: relative;
+}
+#container img{
+	position: absolute;
+	display: block;
+	left: 0;
+	border-left: 1px solid #ccc;
+	height: auto;
+	width: auto;
+	max-width: 100%;
+	max-height: 100%;
+}
