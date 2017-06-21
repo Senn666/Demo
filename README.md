@@ -1,13 +1,15 @@
-#这是一个学习与练习的Demo库。
+这是一个学习与练习的Demo库。
+=======================
 
-##项目
-####通过CSS3实现网页平滑过渡
+通过CSS3实现网页平滑过渡
+---------------------
 
 项目：https://github.com/Senn666/Demo/tree/master/SmoothTransition
 
 Demo：https://senn666.github.io/Demo/SmoothTransition/
 
-####SlidingDoors滑动门图片动画效果
+SlidingDoors滑动门图片动画效果
+----------------------------
 
 项目：https://github.com/Senn666/Demo/tree/master/slidingdoors
 
